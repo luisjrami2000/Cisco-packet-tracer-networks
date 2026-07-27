@@ -1,41 +1,35 @@
 # Cisco-packet-tracer
 This contain my packet tracer network topogies from my CCNA/CCNP course and also ones that I made in my free time or for practice.
 
-I will try to add some images, passwords as well as other info for better understanding and accesing the topology.
-
 Username: luis
 
 Password: cisco
 
 Enable: class
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="n1" width="250"/><br />
-      <b>Etherchannel and trunking vlan network</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" width="250"/><br />
-      <b>Title 2</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" width="250"/><br />
-      <b>Title 3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" width="250"/><br />
-      <b>Title 4</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" width="250"/><br />
-      <b>Title 5</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" width="250"/><br />
-      <b>Title 6</b>
-    </td>
-  </tr>
-</table>
+<div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n1.png?raw=true/200" width="200"/><br />
+    <b>Title 1</b>
+  </div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://via.placeholder.com/200" width="200"/><br />
+    <b>Title 2</b>
+  </div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://via.placeholder.com/200" width="200"/><br />
+    <b>Title 3</b>
+  </div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://via.placeholder.com/200" width="200"/><br />
+    <b>Title 4</b>
+  </div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://via.placeholder.com/200" width="200"/><br />
+    <b>Title 5</b>
+  </div>
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+    <img src="https://via.placeholder.com/200" width="200"/><br />
+    <b>Title 6</b>
+  </div>
+</div>

@@ -8,28 +8,28 @@ Password: cisco
 Enable: class
 
 <div>
-  <div style="display:inline-block; width:500px; text-align:center; margin:10px;">
+  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
     <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n1.png?raw=true/200" width="200"/><br />
     <b>Etherchannel and trunking vlan network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
-    <img src="https://via.placeholder.com/200" width="200"/><br />
-    <b>Title 2</b>
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n2.png?raw=true/200" width="200"/><br />
+    <b>Small VLSM-OSPF network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
-    <img src="https://via.placeholder.com/200" width="200"/><br />
-    <b>Title 3</b>
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n3.png?raw=true/200" width="200"/><br />
+    <b>Double Vlan Network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
-    <img src="https://via.placeholder.com/200" width="200"/><br />
-    <b>Title 4</b>
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n4.png?raw=true/200" width="200"/><br />
+    <b>Multi-Vlan DHCP network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
-    <img src="https://via.placeholder.com/200" width="200"/><br />
-    <b>Title 5</b>
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n5.png?raw=true/200" width="200"/><br />
+    <b>Dual SVI MHSRP vlan network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
-    <img src="https://via.placeholder.com/200" width="200"/><br />
-    <b>Title 6</b>
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n6.png?raw=true/200" width="200"/><br />
+    <b>SOHO sites network</b>
   </div>
 </div>

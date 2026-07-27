@@ -8,9 +8,9 @@ Password: cisco
 Enable: class
 
 <div>
-  <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
+  <div style="display:inline-block; width:500px; text-align:center; margin:10px;">
     <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n1.png?raw=true/200" width="200"/><br />
-    <b>Title 1</b>
+    <b>Etherchannel and trunking vlan network</b>
   </div>
   <div style="display:inline-block; width:200px; text-align:center; margin:10px;">
     <img src="https://via.placeholder.com/200" width="200"/><br />

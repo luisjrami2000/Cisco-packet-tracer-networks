@@ -8,3 +8,34 @@ Username: luis
 Password: cisco
 
 Enable: class
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n1.png/250" width="250"/><br />
+      <b>Etherchannel and trunking vlan network</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/250" width="250"/><br />
+      <b>Title 2</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/250" width="250"/><br />
+      <b>Title 3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/250" width="250"/><br />
+      <b>Title 4</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/250" width="250"/><br />
+      <b>Title 5</b>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/250" width="250"/><br />
+      <b>Title 6</b>
+    </td>
+  </tr>
+</table>

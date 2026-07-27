@@ -12,7 +12,7 @@ Enable: class
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n1.png/250" width="250"/><br />
+      <img src="n1" width="250"/><br />
       <b>Etherchannel and trunking vlan network</b>
     </td>
     <td align="center">

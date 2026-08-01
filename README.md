@@ -28,8 +28,8 @@ Enable: class
     <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n5.png?raw=true/600" width="600"/><br />
     <b>Dual SVI MHSRP vlan network</b>
   </div>
-  <div style="display:inline-block; width:1000px; text-align:center; margin:10px;">
-    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n6.png?raw=true/1000" width="1000"/><br />
+  <div style="display:inline-block; width:1200px; text-align:center; margin:10px;">
+    <img src="https://github.com/luisjrami2000/Cisco-packet-tracer-networks/blob/main/Examples/n6.png?raw=true/1200" width="1200"/><br />
     <b>SOHO sites network</b>
   </div>
 </div>
